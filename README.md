@@ -21,10 +21,12 @@ Single Pirce component created with HTML and Tailwind CSS
 
 Mobile
 
+![image](https://user-images.githubusercontent.com/90436675/164913806-575a0d7b-3b36-4932-940e-998d0230c56e.png)
 
 
 Desktop
 
+![image](https://user-images.githubusercontent.com/90436675/164913789-ae254a90-c8d0-450b-a348-8fda13716558.png)
 
 
 ### Links
